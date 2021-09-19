@@ -1,4 +1,9 @@
-## Opa ✌ Eu sou o Isaias Ferreira 😉
+## Hi there ✌
+##  I'm Isaias Ferreira 😉
+- 💼 Software Developer at [Stara](https://stara.com.br/)
+- 🎓 Graduated from [ULBRA](https://www.ulbra.br/carazinho)
+- 📃 Certificate of English at [Cambly](https://www.cambly.com/en/certificate/verify/8818f1e0?lang=pt)
+
 ### Status 🎯
 
 <div>
@@ -7,7 +12,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isarayzer&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
-  ##
+  ### My skills and Tools:
 
   <!--https://devicon.dev/-->
 <div style="display: inline_block"><br>
@@ -30,7 +35,7 @@
   <img align="right" alt="Isa-Goku" height="120" width="120" src="https://c.tenor.com/C_nJg-iEolcAAAAd/goku-ultra-instinct.gif">
 </div>
   
-  ##
+  ### Connect with me:
 
   <!--https://dev.to/envoy_/150-badges-for-github-pnk-->
 <div> 
