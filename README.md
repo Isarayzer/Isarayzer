@@ -8,7 +8,8 @@
 </div>
   
   ##
-  
+
+  <!--https://devicon.dev/-->
 <div style="display: inline_block"><br>
   <img align="center" alt="Isa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> 
   <img align="center" alt="Isa-DotNetCore" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
@@ -25,16 +26,17 @@
   <img align="center" alt="Isa-Azure" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
   <!--<img align="center" alt="Isa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">-->
   
-  <!--<img align="right" alt="Isa-hulk" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif">-->
+  <!--https://tenor.com/search/goku-gifs-->
+  <img align="right" alt="Isa-Goku" height="120" width="120" src="https://c.tenor.com/C_nJg-iEolcAAAAd/goku-ultra-instinct.gif">
 </div>
   
   ##
-  
+
+  <!--https://dev.to/envoy_/150-badges-for-github-pnk-->
 <div> 
   <a href="https://www.linkedin.com/in/isaiasferreira/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://www.instagram.com/isaiasferreira1520/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>  
   <a href = "mailto:isayas_ferreira@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
  
-  <!--![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)-->
- 
+  <!--![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)--> 
 </div>
