@@ -45,6 +45,5 @@
   
   ![Snake animation](https://github.com/Isarayzer/Isarayzer/blob/output/github-contribution-grid-snake.svg)
   
-  ![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=Isarayzer.Isarayzer)
-  
+  ![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=Isarayzer.Isarayzer)  
 </div>
