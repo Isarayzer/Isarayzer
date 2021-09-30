@@ -45,5 +45,10 @@
   
   ![Snake animation](https://github.com/Isarayzer/Isarayzer/blob/output/github-contribution-grid-snake.svg)
   
-  ![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=Isarayzer.Isarayzer)  
+  ![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=Isarayzer.Isarayzer)
+  
+ <!--### Visitor on profile :detective: <br>
+ <p align="center"> 
+   <img alingn="center" src="https://profile-counter.glitch.me/Isarayzer/count.svg" />
+ </p>-->
 </div>
